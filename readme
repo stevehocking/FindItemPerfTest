@@ -1,0 +1,5 @@
+This is a small project that explores the performance of four methods of finding items in a List<string>:
+	* Find
+	* Contains
+	* Where
+	* Any

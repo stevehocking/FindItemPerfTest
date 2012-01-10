@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <settings>
+    <repetitions>5</repetitions>
+    <searchCount>500</searchCount>
+  </settings>
+  <data>
+    <searchList>
+      <item>item 1</item>
+      <item>item 2</item>
+      <item>item 3</item>
+      <item>item 4</item>
+      <item>item 5</item>
+      <item>item 6</item>
+      <item>item 7</item>
+      <item>item 8</item>
+      <item>item 9</item>
+      <item>item 10</item>
+      <item>item 11</item>
+      <item>item 12</item>
+      <item>item 13</item>
+      <item>item 14</item>
+      <item>item 15</item>
+      <item>item 16</item>
+      <item>item 17</item>
+      <item>item 18</item>
+      <item>item 19</item>
+      <item>item 20</item>
+    </searchList>
+    <searchTerms>
+      <item>item 2</item>
+      <item>item 5 no item</item>
+      <item>item 18</item>
+      <item>item 8 no item</item>
+      <item>item 9</item>
+      <item>item 4</item>
+      <item>item 16</item>
+      <item>item 10</item>
+      <item>item 11</item>
+      <item>item 3</item>
+      <item>item 1</item>
+      <item>item 15</item>
+      <item>item 7</item>
+      <item>item 12</item>
+      <item>item 13 no item</item>
+      <item>item 14</item>
+      <item>item 6</item>
+      <item>item 17</item>
+      <item>item 19</item>
+      <item>item 20 no item</item>
+    </searchTerms>
+  </data>
+</configuration>
