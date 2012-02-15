@@ -6,7 +6,9 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Configurations", "Configurations", "{70ED41A3-032B-4A30-911C-D5245B6C1D97}"
 	ProjectSection(SolutionItems) = preProject
 		Large80PercentHit.xml = Large80PercentHit.xml
+		LargeListSmallSearch.xml = LargeListSmallSearch.xml
 		Small80PercentHit.xml = Small80PercentHit.xml
+		SmallListLargeSearch.xml = SmallListLargeSearch.xml
 	EndProjectSection
 EndProject
 Global

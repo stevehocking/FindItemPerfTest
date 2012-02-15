@@ -74,12 +74,12 @@ namespace FindItemPerfTest
 
             Console.WriteLine("ticks per second,{0}", Stopwatch.Frequency);
 
-            Console.WriteLine("test,total,shortest,longest,average");
+            Console.WriteLine("test,total,shortest,longest");
 
-            Console.WriteLine("find,{0},{1},{2},{3}", findTimes.Sum(), findTimes.Min(), findTimes.Max(), findTimes.Average());
-            Console.WriteLine("contains,{0},{1},{2},{3}", containsTimes.Sum(), containsTimes.Min(), containsTimes.Max(), containsTimes.Average());
-            Console.WriteLine("where,{0},{1},{2},{3}", whereTimes.Sum(), whereTimes.Min(), whereTimes.Max(), whereTimes.Average());
-            Console.WriteLine("any,{0},{1},{2},{3}", anyTimes.Sum(), anyTimes.Min(), anyTimes.Max(), anyTimes.Average());
+            Console.WriteLine("find,{0},{1},{2}", findTimes.Sum(), findTimes.Min(), findTimes.Max());
+            Console.WriteLine("contains,{0},{1},{2}", containsTimes.Sum(), containsTimes.Min(), containsTimes.Max());
+            Console.WriteLine("where,{0},{1},{2}", whereTimes.Sum(), whereTimes.Min(), whereTimes.Max());
+            Console.WriteLine("any,{0},{1},{2}", anyTimes.Sum(), anyTimes.Min(), anyTimes.Max());
 
 #if DEBUG
             Console.ReadKey();
